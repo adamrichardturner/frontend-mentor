@@ -20,12 +20,14 @@ Below are a list of these projects with links to the live sites, code repositori
   </a>
 </h3>
   <p align="center">
-    <a href="https://countries.adamrichardturner.dev">Live</a> | <a href="https://github.com/adamrichardturner/countries">Repo</a>
+    <a href="https://countries.adamrichardturner.dev" target="_blank">Live</a> | <a href="https://github.com/adamrichardturner/countries" target="_blank">Repo</a>
   </p>
 </td>
 <td width="50%">
   <picture>
-    <img alt="Countries Preview" src="https://raw.githubusercontent.com/adamrichardturner/countries/main/screenshot.png" align="center">
+    <a href="https://countries.adamrichardturner.dev" target="_blank">
+      <img alt="Countries Preview" src="https://raw.githubusercontent.com/adamrichardturner/countries/main/screenshot.png" align="center">
+    </a>
   </picture>
 </td>
 </tr></table>
@@ -42,12 +44,14 @@ Below are a list of these projects with links to the live sites, code repositori
   </a>
 </h3>
   <p align="center">
-    <a href="https://notifications.adamrichardturner.dev">Live</a> | <a href="https://github.com/adamrichardturner/notifications-page">Repo</a>
+    <a href="https://notifications.adamrichardturner.dev" target="_blank">Live</a> | <a href="https://github.com/adamrichardturner/notifications-page" target="_blank">Repo</a>
   </p>
 </td>
 <td width="50%">
   <picture>
-    <img alt="Notifications Page Preview" src="https://raw.githubusercontent.com/adamrichardturner/notifications-page/main/screenshot.png" align="center">
+    <a href="https://notifications.adamrichardturner.dev" target="_blank">
+      <img alt="Notifications Page Preview" src="https://raw.githubusercontent.com/adamrichardturner/notifications-page/main/screenshot.png" align="center">
+    </a>
   </picture>
 </td>
 </tr></table>
@@ -63,14 +67,14 @@ Below are a list of these projects with links to the live sites, code repositori
   </a>
 </h3>
   <p align="center">
-    <a href="https
-://expenses.adamrichardturner.dev">Live</a> | <a href="https://github.com/adamrichardturner/expenses-chart">Repo</a>
-
+    <a href="https://expenses.adamrichardturner.dev" target="_blank">Live</a> | <a href="https://github.com/adamrichardturner/expenses-chart" target="_blank">Repo</a>
   </p>
 </td>
 <td width="50%">
   <picture>
-    <img alt="Expenses Chart Preview" src="https://raw.githubusercontent.com/adamrichardturner/expenses-chart/main/screenshot.png" align="center">
+    <a href="https://expenses.adamrichardturner.dev" target="_blank">
+      <img alt="Expenses Chart Preview" src="https://raw.githubusercontent.com/adamrichardturner/expenses-chart/main/screenshot.png" align="center">
+    </a>
   </picture>
 </td>
 </tr></table>
@@ -86,12 +90,14 @@ Below are a list of these projects with links to the live sites, code repositori
   </a>
 </h3>
   <p align="center">
-    <a href="https://advice.adamrichardturner.dev">Live</a> | <a href="https://github.com/adamrichardturner/advice-generator">Repo</a>
+    <a href="https://advice.adamrichardturner.dev" target="_blank">Live</a> | <a href="https://github.com/adamrichardturner/advice-generator" target="_blank">Repo</a>
   </p>
 </td>
 <td width="50%">
   <picture>
-    <img alt="Advice Generator Preview" src="https://raw.githubusercontent.com/adamrichardturner/advice-generator/main/screenshot.png" align="center">
+    <a href="https://advice.adamrichardturner.dev" target="_blank">
+      <img alt="Advice Generator Preview" src="https://raw.githubusercontent.com/adamrichardturner/advice-generator/main/screenshot.png" align="center">
+    </a>
   </picture>
 </td>
 </tr></table>
@@ -108,12 +114,14 @@ Below are a list of these projects with links to the live sites, code repositori
   </a>
 </h3>
   <p align="center">
-    <a href="https://blogcard.adamrichardturner.dev">Live</a> | <a href="https://github.com/adamrichardturner/blog-preview-card">Repo</a>
+    <a href="https://blogcard.adamrichardturner.dev" target="_blank">Live</a> | <a href="https://github.com/adamrichardturner/blog-preview-card" target="_blank">Repo</a>
   </p>
 </td>
 <td width="50%">
   <picture>
-    <img alt="Blog Preview Card Preview" src="https://raw.githubusercontent.com/adamrichardturner/blog-preview-card/main/screenshot.png" align="center">
+    <a href="https://blogcard.adamrichardturner.dev" target="_blank">
+      <img alt="Blog Preview Card Preview" src="https://raw.githubusercontent.com/adamrichardturner/blog-preview-card/main/screenshot.png" align="center">
+    </a>
   </picture>
 </td>
 </tr></table>
@@ -130,12 +138,14 @@ Below are a list of these projects with links to the live sites, code repositori
   </a>
 </h3>
   <p align="center">
-    <a href="https://news.adamrichardturner.dev">Live</a> | <a href="https://github.com/adamrichardturner/news-homepage">Repo</a>
+    <a href="https://news.adamrichardturner.dev" target="_blank">Live</a> | <a href="https://github.com/adamrichardturner/news-homepage" target="_blank">Repo</a>
   </p>
 </td>
 <td width="50%">
   <picture>
-    <img alt="News Homepage Preview" src="https://raw.githubusercontent.com/adamrichardturner/news-homepage/main/screenshot.png" align="center">
+    <a href="https://news.adamrichardturner.dev" target="_blank">
+      <img alt="News Homepage Preview" src="https://raw.githubusercontent.com/adamrichardturner/news-homepage/main/screenshot.png" align="center">
+    </a>
   </picture>
 </td>
 </tr></table>
@@ -151,12 +161,14 @@ Below are a list of these projects with links to the live sites, code repositori
   </a>
 </h3>
   <p align="center">
-    <a href="https://newsletter.adamrichardturner.dev">Live</a> | <a href="https://github.com/adamrichardturner/newsletter-sign-up">Repo</a>
+    <a href="https://newsletter.adamrichardturner.dev" target="_blank">Live</a> | <a href="https://github.com/adamrichardturner/newsletter-sign-up" target="_blank">Repo</a>
   </p>
 </td>
 <td width="50%">
   <picture>
-    <img alt="Newsletter Sign-Up Preview" src="https://raw.githubusercontent.com/adamrichardturner/newsletter-sign-up/main/screenshot.png" align="center">
+    <a href="https://newsletter.adamrichardturner.dev" target="_blank">
+      <img alt="Newsletter Sign-Up Preview" src="https://raw.githubusercontent.com/adamrichardturner/newsletter-sign-up/main/screenshot.png" align="center">
+    </a>
   </picture>
 </td>
 </tr></table>
@@ -172,12 +184,14 @@ Below are a list of these projects with links to the live sites, code repositori
   </a>
 </h3>
   <p align="center">
-    <a href="https://summary.adamrichardturner.dev">Live</a> | <a href="https://github.com/adamrichardturner/results-summary-component">Repo</a>
+    <a href="https://summary.adamrichardturner.dev" target="_blank">Live</a> | <a href="https://github.com/adamrichardturner/results-summary-component" target="_blank">Repo</a>
   </p>
 </td>
 <td width="50%">
   <picture>
-    <img alt="Results Summary Component Preview" src="https://raw.githubusercontent.com/adamrichardturner/results-summary-component/main/screenshot.png" align="center">
+    <a href="https://summary.adamrichardturner.dev" target="_blank">
+      <img alt="Results Summary Component Preview" src="https://raw.githubusercontent.com/adamrichardturner/results-summary-component/main/screenshot.png" align="center">
+    </a>
   </picture>
 </td>
 </tr></table>
