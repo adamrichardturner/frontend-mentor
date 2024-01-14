@@ -1,0 +1,21 @@
+[submodule "challenges/notifications-page"]
+	path = challenges/notifications-page
+	url = https://github.com/adamrichardturner/notifications-page.git
+[submodule "challenges/blog-preview-card"]
+	path = challenges/blog-preview-card
+	url = https://github.com/adamrichardturner/blog-preview-card.git
+[submodule "challenges/expenses-chart"]
+	path = challenges/expenses-chart
+	url = https://github.com/adamrichardturner/expenses-chart.git
+[submodule "challenges/countries"]
+	path = challenges/countries
+	url = https://github.com/adamrichardturner/countries.git
+[submodule "challenges/results-summary-component"]
+	path = challenges/results-summary-component
+	url = https://github.com/adamrichardturner/results-summary-component.git
+[submodule "challenges/news-homepage"]
+	path = challenges/news-homepage
+	url = https://github.com/adamrichardturner/news-homepage.git
+[submodule "challenges/newsletter-sign-up"]
+	path = challenges/newsletter-sign-up
+	url = https://github.com/adamrichardturner/newsletter-sign-up.git
