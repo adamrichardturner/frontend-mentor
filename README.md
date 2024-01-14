@@ -10,13 +10,81 @@ Below are a list of these projects with links to the live sites, code repositori
 
 <br>
 
+<!-- Countries -->
+<table align="center"><tr>
+<td width="50%">
+  <h2 align="center">Countries</h2>
+  <h3 align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts" alt="My Skills">
+  </a>
+</h3>
+  <p align="center">
+    <a href="https://countries.adamrichardturner.dev">Live</a> | <a href="https://github.com/adamrichardturner/countries">Repo</a>
+  </p>
+</td>
+<td width="50%">
+  <picture>
+    <img alt="Countries Preview" src="https://raw.githubusercontent.com/adamrichardturner/countries/main/screenshot.png" align="center">
+  </picture>
+</td>
+</tr></table>
+
+<br>
+
+<!-- Notifications Page -->
+<table align="center"><tr>
+<td width="50%">
+  <h2 align="center">Notifications Page</h2>
+  <h3 align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts" alt="My Skills">
+  </a>
+</h3>
+  <p align="center">
+    <a href="https://notifications.adamrichardturner.dev">Live</a> | <a href="https://github.com/adamrichardturner/notifications-page">Repo</a>
+  </p>
+</td>
+<td width="50%">
+  <picture>
+    <img alt="Notifications Page Preview" src="https://raw.githubusercontent.com/adamrichardturner/notifications-page/main/screenshot.png" align="center">
+  </picture>
+</td>
+</tr></table>
+<br>
+
+<!-- Expenses Chart -->
+<table align="center"><tr>
+<td width="50%">
+  <h2 align="center">Expenses Chart</h2>
+  <h3 align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts" alt="My Skills">
+  </a>
+</h3>
+  <p align="center">
+    <a href="https
+://expenses.adamrichardturner.dev">Live</a> | <a href="https://github.com/adamrichardturner/expenses-chart">Repo</a>
+
+  </p>
+</td>
+<td width="50%">
+  <picture>
+    <img alt="Expenses Chart Preview" src="https://raw.githubusercontent.com/adamrichardturner/expenses-chart/main/screenshot.png" align="center">
+  </picture>
+</td>
+</tr></table>
+<br>
+
 <!-- Advice Generator -->
 <table align="center"><tr>
 <td width="50%">
   <h2 align="center">Advice Generator</h2>
-  <h3 align="center"> 
-    [![My Skills](https://skillicons.dev/icons?i=nextjs,tailwind,ts)](https://skillicons.dev)
-  </h3>
+  <h3 align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts" alt="My Skills">
+  </a>
+</h3>
   <p align="center">
     <a href="https://advice.adamrichardturner.dev">Live</a> | <a href="https://github.com/adamrichardturner/advice-generator">Repo</a>
   </p>
@@ -34,9 +102,11 @@ Below are a list of these projects with links to the live sites, code repositori
 <table align="center"><tr>
 <td width="50%">
   <h2 align="center">Blog Preview Card</h2>
-  <h3 align="center"> 
-    [![My Skills](https://skillicons.dev/icons?i=html,tailwind,ts)](https://skillicons.dev)
-  </h3>
+  <h3 align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,tailwind" alt="My Skills">
+  </a>
+</h3>
   <p align="center">
     <a href="https://blogcard.adamrichardturner.dev">Live</a> | <a href="https://github.com/adamrichardturner/blog-preview-card">Repo</a>
   </p>
@@ -50,53 +120,15 @@ Below are a list of these projects with links to the live sites, code repositori
 
 <br>
 
-<!-- Countries -->
-<table align="center"><tr>
-<td width="50%">
-  <h2 align="center">Countries</h2>
-  <h3 align="center"> 
-    [![My Skills](https://skillicons.dev/icons?i=nextjs,tailwind,ts)](https://skillicons.dev)
-  </h3>
-  <p align="center">
-    <a href="https://countries.adamrichardturner.dev">Live</a> | <a href="https://github.com/adamrichardturner/countries">Repo</a>
-  </p>
-</td>
-<td width="50%">
-  <picture>
-    <img alt="Countries Preview" src="https://raw.githubusercontent.com/adamrichardturner/countries/main/screenshot.png" align="center">
-  </picture>
-</td>
-</tr></table>
-
-<br>
-
-<!-- Expenses Chart -->
-<table align="center"><tr>
-<td width="50%">
-  <h2 align="center">Expenses Chart</h2>
-  <h3 align="center"> 
-    [![My Skills](https://skillicons.dev/icons?i=nextjs,tailwind,ts)](https://skillicons.dev)
-  </h3>
-  <p align="center">
-    <a href="https
-://expenses.adamrichardturner.dev">Live</a> | <a href="https://github.com/adamrichardturner/expenses-chart">Repo</a>
-
-  </p>
-</td>
-<td width="50%">
-  <picture>
-    <img alt="Expenses Chart Preview" src="https://raw.githubusercontent.com/adamrichardturner/expenses-chart/main/screenshot.png" align="center">
-  </picture>
-</td>
-</tr></table>
-<br>
 <!-- News Homepage -->
 <table align="center"><tr>
 <td width="50%">
   <h2 align="center">News Homepage</h2>
-  <h3 align="center"> 
-    [![My Skills](https://skillicons.dev/icons?i=nextjs,tailwind,ts)](https://skillicons.dev)
-  </h3>
+  <h3 align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts" alt="My Skills">
+  </a>
+</h3>
   <p align="center">
     <a href="https://news.adamrichardturner.dev">Live</a> | <a href="https://github.com/adamrichardturner/news-homepage">Repo</a>
   </p>
@@ -108,13 +140,16 @@ Below are a list of these projects with links to the live sites, code repositori
 </td>
 </tr></table>
 <br>
+
 <!-- Newsletter Sign-Up -->
 <table align="center"><tr>
 <td width="50%">
   <h2 align="center">Newsletter Sign-Up</h2>
-  <h3 align="center"> 
-    [![My Skills](https://skillicons.dev/icons?i=nextjs,sass,js)](https://skillicons.dev)
-  </h3>
+  <h3 align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,js,sass" alt="My Skills">
+  </a>
+</h3>
   <p align="center">
     <a href="https://newsletter.adamrichardturner.dev">Live</a> | <a href="https://github.com/adamrichardturner/newsletter-sign-up">Repo</a>
   </p>
@@ -126,31 +161,16 @@ Below are a list of these projects with links to the live sites, code repositori
 </td>
 </tr></table>
 <br>
-<!-- Notifications Page -->
-<table align="center"><tr>
-<td width="50%">
-  <h2 align="center">Notifications Page</h2>
-  <h3 align="center"> 
-    [![My Skills](https://skillicons.dev/icons?i=nextjs,tailwind,ts)](https://skillicons.dev)
-  </h3>
-  <p align="center">
-    <a href="https://notifications.adamrichardturner.dev">Live</a> | <a href="https://github.com/adamrichardturner/notifications-page">Repo</a>
-  </p>
-</td>
-<td width="50%">
-  <picture>
-    <img alt="Notifications Page Preview" src="https://raw.githubusercontent.com/adamrichardturner/notifications-page/main/screenshot.png" align="center">
-  </picture>
-</td>
-</tr></table>
-<br>
+
 <!-- Results Summary Component -->
 <table align="center"><tr>
 <td width="50%">
   <h2 align="center">Results Summary Component</h2>
-  <h3 align="center"> 
-    [![My Skills](https://skillicons.dev/icons?i=js,sass)](https://skillicons.dev)
-  </h3>
+  <h3 align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,js,sass" alt="My Skills">
+  </a>
+</h3>
   <p align="center">
     <a href="https://summary.adamrichardturner.dev">Live</a> | <a href="https://github.com/adamrichardturner/results-summary-component">Repo</a>
   </p>
