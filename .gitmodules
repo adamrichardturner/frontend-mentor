@@ -19,3 +19,6 @@
 [submodule "challenges/newsletter-sign-up"]
 	path = challenges/newsletter-sign-up
 	url = https://github.com/adamrichardturner/newsletter-sign-up.git
+[submodule "challenges/advice-generator"]
+	path = challenges/advice-generator
+	url = https://github.com/adamrichardturner/advice-generator.git
