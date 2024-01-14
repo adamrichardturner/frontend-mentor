@@ -18,7 +18,7 @@ Below are a list of these projects with links to the live sites, code repositori
   <br><br><br>
   <h2 align="center">Advice Generator</h2>
   <h3 align="center"> 
-    [![My Skills](https://skillicons.dev/icons?i=ts,react,next,tailwind)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=nextjs,tailwind,ts)](https://skillicons.dev)
   </h3>
   <p align="center">
     <a href="https://advice.adamrichardturner.dev">Live</a> | <a href="https://github.com/adamrichardturner/advice-generator">Repo</a> | <a href="#">Try Out</a>
@@ -34,7 +34,7 @@ Below are a list of these projects with links to the live sites, code repositori
   <br><br><br>
   <h2 align="center">Blog Preview Card</h2>
   <h3 align="center"> 
-    [![My Skills](#)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   </h3>
   <p align="center">
     <a href="https://blogcard.adamrichardturner.dev">Live</a> | <a href="https://github.com/adamrichardturner/blog-preview-card">Repo</a> | <a href="#">Try Out</a>
@@ -50,7 +50,7 @@ Below are a list of these projects with links to the live sites, code repositori
   <br><br><br>
   <h2 align="center">Countries</h2>
   <h3 align="center"> 
-    [![My Skills](#)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   </h3>
   <p align="center">
     <a href="https://countries.adamrichardturner.dev">Live</a> | <a href="https://github.com/adamrichardturner/countries">Repo</a> | <a href="#">Try Out</a>
@@ -66,7 +66,7 @@ Below are a list of these projects with links to the live sites, code repositori
   <br><br><br>
   <h2 align="center">Expenses Chart</h2>
   <h3 align="center"> 
-    [![My Skills](#)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   </h3>
   <p align="center">
     <a href="https://expenses.adamrichardturner.dev">Live</a> | <a href="https://github.com/adamrichardturner/expenses-chart">Repo</a> | <a href="#">Try Out</a>
@@ -84,7 +84,7 @@ Below are a list of these projects with links to the live sites, code repositori
   <br><br><br>
   <h2 align="center">News Homepage</h2>
   <h3 align="center"> 
-    [![My Skills](#)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   </h3>
   <p align="center">
     <a href="https://news.adamrichardturner.dev">Live</a> | <a href="https://github.com/adamrichardturner/news-homepage">Repo</a> | <a href="#">Try Out</a>
@@ -100,7 +100,7 @@ Below are a list of these projects with links to the live sites, code repositori
   <br><br><br>
   <h2 align="center">Newsletter Sign-Up</h2>
   <h3 align="center"> 
-    [![My Skills](#)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   </h3>
   <p align="center">
     <a href="https://newsletter.adamrichardturner.dev">Live</a> | <a href="https://github.com/adamrichardturner/newsletter-sign-up">Repo</a> | <a href="#">Try Out</a>
@@ -116,7 +116,7 @@ Below are a list of these projects with links to the live sites, code repositori
   <br><br><br>
   <h2 align="center">Notifications Page</h2>
   <h3 align="center"> 
-    [![My Skills](#)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   </h3>
   <p align="center">
     <a href="https://notifications.adamrichardturner.dev">Live</a> | <a href="https://github.com/adamrichardturner/notifications-page">Repo</a> | <a href="#">Try Out</a>
@@ -132,7 +132,7 @@ Below are a list of these projects with links to the live sites, code repositori
   <br><br><br>
   <h2 align="center">Results Summary Component</h2>
   <h3 align="center"> 
-    [![My Skills](#)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   </h3>
   <p align="center">
     <a href="https://summary.adamrichardturner.dev">Live</a> | <a href="https://github.com/adamrichardturner/results-summary-component">Repo</a> | <a href="#">Try Out</a>
