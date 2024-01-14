@@ -73,7 +73,6 @@ Below are a list of these projects with links to the live sites, code repositori
   </p>
   <br><br>
 </td></tr></table>[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
-
 <!-- Continue with other projects in the same format... -->
 
 <!-- News Homepage -->
