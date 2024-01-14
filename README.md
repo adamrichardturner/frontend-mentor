@@ -23,7 +23,7 @@ Below are a list of these projects with links to the live sites, code repositori
 </td>
 <td width="50%">
   <picture>
-    <img alt="Advice Generator Preview" src="./challenges/advice-generator/screenshot.png" align="center">
+    <img alt="Advice Generator Preview" src="https://raw.githubusercontent.com/adamrichardturner/advice-generator/main/screenshot.png" align="center">
   </picture>
 </td>
 </tr></table>
@@ -43,7 +43,7 @@ Below are a list of these projects with links to the live sites, code repositori
 </td>
 <td width="50%">
   <picture>
-    <img alt="Blog Preview Card Preview" src="./challenges/blog-preview-card/screenshot.png" align="center">
+    <img alt="Blog Preview Card Preview" src="https://raw.githubusercontent.com/adamrichardturner/blog-preview-card/main/screenshot.png" align="center">
   </picture>
 </td>
 </tr></table>
@@ -63,7 +63,7 @@ Below are a list of these projects with links to the live sites, code repositori
 </td>
 <td width="50%">
   <picture>
-    <img alt="Countries Preview" src="./challenges/countries/screenshot.png" align="center">
+    <img alt="Countries Preview" src="https://raw.githubusercontent.com/adamrichardturner/countries/main/screenshot.png" align="center">
   </picture>
 </td>
 </tr></table>
@@ -85,7 +85,7 @@ Below are a list of these projects with links to the live sites, code repositori
 </td>
 <td width="50%">
   <picture>
-    <img alt="Expenses Chart Preview" src="./challenges/expenses-chart/screenshot.png" align="center">
+    <img alt="Expenses Chart Preview" src="https://raw.githubusercontent.com/adamrichardturner/expenses-chart/main/screenshot.png" align="center">
   </picture>
 </td>
 </tr></table>
@@ -103,7 +103,7 @@ Below are a list of these projects with links to the live sites, code repositori
 </td>
 <td width="50%">
   <picture>
-    <img alt="News Homepage Preview" src="./challenges/news-homepage/screenshot.png" align="center">
+    <img alt="News Homepage Preview" src="https://raw.githubusercontent.com/adamrichardturner/news-homepage/main/screenshot.png" align="center">
   </picture>
 </td>
 </tr></table>
@@ -121,7 +121,7 @@ Below are a list of these projects with links to the live sites, code repositori
 </td>
 <td width="50%">
   <picture>
-    <img alt="Newsletter Sign-Up Preview" src="./challenges/newsletter-sign-up/screenshot.png" align="center">
+    <img alt="Newsletter Sign-Up Preview" src="https://raw.githubusercontent.com/adamrichardturner/newsletter-sign-up/main/screenshot.png" align="center">
   </picture>
 </td>
 </tr></table>
@@ -139,7 +139,7 @@ Below are a list of these projects with links to the live sites, code repositori
 </td>
 <td width="50%">
   <picture>
-    <img alt="Notifications Page Preview" src="./challenges/notifications-page/screenshot.png" align="center">
+    <img alt="Notifications Page Preview" src="https://raw.githubusercontent.com/adamrichardturner/notifications-page/main/screenshot.png" align="center">
   </picture>
 </td>
 </tr></table>
@@ -157,7 +157,7 @@ Below are a list of these projects with links to the live sites, code repositori
 </td>
 <td width="50%">
   <picture>
-    <img alt="Results Summary Component Preview" src="./challenges/results-summary-component/screenshot.png" align="center">
+    <img alt="Results Summary Component Preview" src="https://raw.githubusercontent.com/adamrichardturner/results-summary-component/main/screenshot.png" align="center">
   </picture>
 </td>
 </tr></table>
