@@ -1,0 +1,44 @@
+import type { Config } from 'tailwindcss'
+
+const config: Config = {
+  content: [
+    './pages/**/*.{js,ts,jsx,tsx,mdx}',
+    './components/**/*.{js,ts,jsx,tsx,mdx}',
+    './app/**/*.{js,ts,jsx,tsx,mdx}'
+  ],
+  theme: {
+    extend: {
+      spacing: {
+        '375': '375px',
+        '1440': '1440px'
+      },
+      colors: {
+        primary: {
+          'light-cyan': 'hsl(193, 38%, 86%)',
+          'neon-green': 'hsl(150, 100%, 66%)'
+        },
+        neutral: {
+          'grayish-blue': 'hsl(217, 19%, 38%)',
+          'dark-grayish-blue': 'hsl(217, 19%, 24%)',
+          'dark-blue': 'hsl(218, 23%, 16%)'
+        }
+      },
+      fontSize: {
+        quote: '28px'
+      },
+      fontFamily: {
+        manrope: ['Manrope', 'sans-serif']
+      },
+      fontWeight: {
+        extrabold: '800'
+      },
+      backgroundImage: {
+        'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
+        'gradient-conic':
+          'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))'
+      }
+    }
+  },
+  plugins: []
+}
+export default config
