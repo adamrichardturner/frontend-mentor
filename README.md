@@ -18,7 +18,7 @@ Below are a list of these projects with links to the live sites, code repositori
   <br><br><br>
   <h2 align="center">Advice Generator</h2>
   <h3 align="center"> 
-    [![My Skills](#)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=ts,react,next,tailwind)](https://skillicons.dev)
   </h3>
   <p align="center">
     <a href="https://advice.adamrichardturner.dev">Live</a> | <a href="https://github.com/adamrichardturner/advice-generator">Repo</a> | <a href="#">Try Out</a>
