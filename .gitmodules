@@ -22,3 +22,6 @@
 [submodule "challenges/advice-generator"]
 	path = challenges/advice-generator
 	url = https://github.com/adamrichardturner/advice-generator.git
+[submodule "challenges/qr-code-component"]
+	path = challenges/qr-code-component
+	url = https://github.com/adamrichardturner/qr-code-component.git
