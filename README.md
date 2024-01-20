@@ -196,3 +196,26 @@ Below are a list of these projects with links to the live sites, code repositori
 </td>
 </tr></table>
 <br>
+
+<!-- QR Code Component -->
+<table align="center"><tr>
+<td width="50%">
+  <h2 align="center">QR Code Component</h2>
+  <h3 align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,tailwind" alt="My Skills">
+  </a>
+</h3>
+  <p align="center">
+    <a href="https://qr-code.adamrichardturner.dev" target="_blank">Live</a> | <a href="https://github.com/adamrichardturner/qr-code-component" target="_blank">Repo</a>
+  </p>
+</td>
+<td width="50%">
+  <picture>
+    <a href="https://qr-code.adamrichardturner.dev" target="_blank">
+      <img alt="QR Code Component Preview" src="https://github.com/adamrichardturner/qr-code-component/blob/50bd158118589332d22f8241908d2f93def405f6/screenshot.png" align="center">
+    </a>
+  </picture>
+</td>
+</tr></table>
+<br>
