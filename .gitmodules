@@ -25,3 +25,6 @@
 [submodule "challenges/qr-code-component"]
 	path = challenges/qr-code-component
 	url = https://github.com/adamrichardturner/qr-code-component.git
+[submodule "challenges/faq-accordion"]
+	path = challenges/faq-accordion
+	url = https://github.com/adamrichardturner/faq-accordion.git

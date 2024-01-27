@@ -219,3 +219,26 @@ Below are a list of these projects with links to the live sites, code repositori
 </td>
 </tr></table>
 <br>
+
+<!-- FAQ Accordion -->
+<table align="center"><tr>
+<td width="50%">
+  <h2 align="center">FAQ Accordion</h2>
+  <h3 align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts" alt="My Skills">
+  </a>
+</h3>
+  <p align="center">
+    <a href="https://faq.adamrichardturner.dev" target="_blank">Live</a> | <a href="https://github.com/adamrichardturner/faq-accordion" target="_blank">Repo</a>
+  </p>
+</td>
+<td width="50%">
+  <picture>
+    <a href="https://faq.adamrichardturner.dev" target="_blank">
+      <img alt="FAQ Accordion Preview" src="https://github.com/adamrichardturner/faq-accordion/blob/be9d65dd445f21348bfbfae530ea746cee5162a1/screenshot.png" align="center">
+    </a>
+  </picture>
+</td>
+</tr></table>
+<br>
