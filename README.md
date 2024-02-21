@@ -10,6 +10,30 @@ Below are a list of these projects with links to the live sites, code repositori
 
 <br>
 
+<!-- Social Media Dashboard -->
+<table align="center"><tr>
+<td width="50%">
+  <h2 align="center">Social Media Dashboard</h2>
+  <h3 align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts" alt="My Skills">
+  </a>
+</h3>
+  <p align="center">
+    <a href="https://socialdashboard.adamrichardturner.dev" target="_blank">Live</a> | <a href="https://github.com/adamrichardturner/social-media-dashboard" target="_blank">Repo</a>
+  </p>
+</td>
+<td width="50%">
+  <picture>
+    <a href="https://socialdashboard.adamrichardturner.dev" target="_blank">
+      <img alt="Countries Preview" src="https://raw.githubusercontent.com/adamrichardturner/social-media-dashboard/main/screenshot.png" align="center">
+    </a>
+  </picture>
+</td>
+</tr></table>
+
+<br>
+
 <!-- Countries -->
 <table align="center"><tr>
 <td width="50%">
