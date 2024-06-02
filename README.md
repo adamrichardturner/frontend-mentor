@@ -16,7 +16,7 @@ Below are a list of these projects with links to the live sites, code repositori
   <h2 align="center">Product Feedback App</h2>
   <h3 align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,supabase,tailwind,ts," alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=nextjs,supabase,tailwind,ts" alt="My Skills">
   </a>
 </h3>
   <p align="center">
@@ -26,7 +26,7 @@ Below are a list of these projects with links to the live sites, code repositori
 <td width="50%">
   <picture>
     <a href="https://feedback.adamrichardturner.dev" target="_blank">
-      <img alt="Countries Preview" src="https://raw.githubusercontent.com/adamrichardturner/product-feedback/main/screenshot.jpg" align="center">
+      <img alt="Product Feedback Preview" src="https://res.cloudinary.com/djucbwuzs/image/upload/v1717335877/product-feedback-app_zf2cfx.png" align="center">
     </a>
   </picture>
 </td>
@@ -48,7 +48,7 @@ Below are a list of these projects with links to the live sites, code repositori
 <td width="50%">
   <picture>
     <a href="https://socialdashboard.adamrichardturner.dev" target="_blank">
-      <img alt="Countries Preview" src="https://raw.githubusercontent.com/adamrichardturner/social-media-dashboard/main/screenshot.png" align="center">
+      <img alt="Social Media Dashboard Preview" src="https://res.cloudinary.com/djucbwuzs/image/upload/v1717335488/social-media-dashboard_lfq6w1.png" align="center">
     </a>
   </picture>
 </td>
@@ -72,7 +72,7 @@ Below are a list of these projects with links to the live sites, code repositori
 <td width="50%">
   <picture>
     <a href="https://countries.adamrichardturner.dev" target="_blank">
-      <img alt="Countries Preview" src="https://raw.githubusercontent.com/adamrichardturner/countries/main/screenshot.png" align="center">
+      <img alt="Countries Preview" src="https://res.cloudinary.com/djucbwuzs/image/upload/v1717335488/countries_qmoerv.png" align="center">
     </a>
   </picture>
 </td>
@@ -96,7 +96,7 @@ Below are a list of these projects with links to the live sites, code repositori
 <td width="50%">
   <picture>
     <a href="https://notifications.adamrichardturner.dev" target="_blank">
-      <img alt="Notifications Page Preview" src="https://raw.githubusercontent.com/adamrichardturner/notifications-page/main/screenshot.png" align="center">
+      <img alt="Notifications Page Preview" src="https://res.cloudinary.com/djucbwuzs/image/upload/v1717335488/notifications_zwbicg.png" align="center">
     </a>
   </picture>
 </td>
@@ -119,7 +119,7 @@ Below are a list of these projects with links to the live sites, code repositori
 <td width="50%">
   <picture>
     <a href="https://expenses.adamrichardturner.dev" target="_blank">
-      <img alt="Expenses Chart Preview" src="https://raw.githubusercontent.com/adamrichardturner/expenses-chart/main/screenshot.png" align="center">
+      <img alt="Expenses Chart Preview" src="https://res.cloudinary.com/djucbwuzs/image/upload/v1717335487/expenses-chart_cs9gyv.png" align="center">
     </a>
   </picture>
 </td>
@@ -142,7 +142,7 @@ Below are a list of these projects with links to the live sites, code repositori
 <td width="50%">
   <picture>
     <a href="https://advice.adamrichardturner.dev" target="_blank">
-      <img alt="Advice Generator Preview" src="https://raw.githubusercontent.com/adamrichardturner/advice-generator/main/screenshot.png" align="center">
+      <img alt="Advice Generator Preview" src="https://res.cloudinary.com/djucbwuzs/image/upload/v1717335488/advice_jlw78m.png" align="center">
     </a>
   </picture>
 </td>
@@ -166,7 +166,7 @@ Below are a list of these projects with links to the live sites, code repositori
 <td width="50%">
   <picture>
     <a href="https://blogcard.adamrichardturner.dev" target="_blank">
-      <img alt="Blog Preview Card Preview" src="https://raw.githubusercontent.com/adamrichardturner/blog-preview-card/main/screenshot.png" align="center">
+      <img alt="Blog Preview Card Preview" src="https://res.cloudinary.com/djucbwuzs/image/upload/v1717335488/blog-preview_w6mykh.png" align="center">
     </a>
   </picture>
 </td>
@@ -190,7 +190,7 @@ Below are a list of these projects with links to the live sites, code repositori
 <td width="50%">
   <picture>
     <a href="https://news.adamrichardturner.dev" target="_blank">
-      <img alt="News Homepage Preview" src="https://raw.githubusercontent.com/adamrichardturner/news-homepage/main/screenshot.png" align="center">
+      <img alt="News Homepage Preview" src="https://res.cloudinary.com/djucbwuzs/image/upload/v1717335488/news-page_etljkl.png" align="center">
     </a>
   </picture>
 </td>
@@ -213,7 +213,7 @@ Below are a list of these projects with links to the live sites, code repositori
 <td width="50%">
   <picture>
     <a href="https://newsletter.adamrichardturner.dev" target="_blank">
-      <img alt="Newsletter Sign-Up Preview" src="https://raw.githubusercontent.com/adamrichardturner/newsletter-sign-up/main/screenshot.png" align="center">
+      <img alt="Newsletter Sign-Up Preview" src="https://res.cloudinary.com/djucbwuzs/image/upload/v1717335488/newsletter-signup_dnxbds.png" align="center">
     </a>
   </picture>
 </td>
@@ -236,7 +236,7 @@ Below are a list of these projects with links to the live sites, code repositori
 <td width="50%">
   <picture>
     <a href="https://summary.adamrichardturner.dev" target="_blank">
-      <img alt="Results Summary Component Preview" src="https://raw.githubusercontent.com/adamrichardturner/results-summary-component/main/screenshot.png" align="center">
+      <img alt="Results Summary Component Preview" src="https://res.cloudinary.com/djucbwuzs/image/upload/v1717335487/results-summary_mopj0e.png" align="center">
     </a>
   </picture>
 </td>
@@ -259,7 +259,7 @@ Below are a list of these projects with links to the live sites, code repositori
 <td width="50%">
   <picture>
     <a href="https://qr-code.adamrichardturner.dev" target="_blank">
-      <img alt="QR Code Component Preview" src="https://github.com/adamrichardturner/qr-code-component/blob/50bd158118589332d22f8241908d2f93def405f6/screenshot.png" align="center">
+      <img alt="QR Code Component Preview" src="https://res.cloudinary.com/djucbwuzs/image/upload/v1717335488/qr-code_xxnyab.png" align="center">
     </a>
   </picture>
 </td>
@@ -282,7 +282,7 @@ Below are a list of these projects with links to the live sites, code repositori
 <td width="50%">
   <picture>
     <a href="https://faq.adamrichardturner.dev" target="_blank">
-      <img alt="FAQ Accordion Preview" src="https://github.com/adamrichardturner/faq-accordion/blob/be9d65dd445f21348bfbfae530ea746cee5162a1/screenshot.png" align="center">
+      <img alt="FAQ Accordion Preview" src="https://res.cloudinary.com/djucbwuzs/image/upload/v1717335487/faq-accordion_pkunvn.png" align="center">
     </a>
   </picture>
 </td>
